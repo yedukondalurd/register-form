@@ -1,0 +1,31 @@
+.container{
+    width: 400px;
+    margin: 20px auto 0px auto;
+}
+h3{
+    color: #9FD563;
+}
+input{
+    height: 40px;
+    width: 100%;
+    outline: none;
+    background-color: #F9F9F9;
+    padding-left: 50px;
+    border: none;
+}
+.input-wrapper{
+    position: relative;
+}
+.input-icon{
+    position: absolute;
+    height: 35px;
+    top: 0px;
+    left: 0px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #E6E6E6;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
